@@ -23,5 +23,5 @@ See folder for more information.
 WIP
 
 # Contribution
-Any help is much appriotionated. Don't be to harsh please, some of the files
+Any help is much appreciated. Don't be to harsh please, some of the files
 were born after a long day/night.

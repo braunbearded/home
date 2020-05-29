@@ -1,5 +1,5 @@
 #!/bin/sh
-# Discreption:
+# Discription:
 # Echos the vendor for the currently used gpu
 #
 # Dependencies:

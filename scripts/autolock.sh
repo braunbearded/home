@@ -3,7 +3,7 @@
 # Autolocking script, which first turns off the monitor and then suspends the
 # computer after some time (triggers lock)
 #
-# Depencies:
+# Dependencies:
 # - xidlehook
 # - xset (packman package: xorg-xset)
 # - systemd suspend mode
